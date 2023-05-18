@@ -7,8 +7,8 @@
 }
 .movieDetail{
 	position:static;
-	top:50px;
-	width:10px;
+	top:1px;
+	width:100px;
 	text-align:center;
-	font-size:500px;
+	font-size:10px;
 }
